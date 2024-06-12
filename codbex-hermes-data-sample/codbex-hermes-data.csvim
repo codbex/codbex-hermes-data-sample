@@ -142,6 +142,50 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
+    },
+    {
+      "table": "CODBEX_OPPORTUNITIES",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/opportunities.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "10.0"
+    },
+    {
+      "table": "CODBEX_LEADS",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/leads.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "10.0"
+    },
+    {
+      "table": "CODBEX_QUOTATIONS",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/quotations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "10.0"
+    },
+    {
+      "table": "CODBEX_ORGANISATIONS",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/organisations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "10.0"
     }
   ]
 }

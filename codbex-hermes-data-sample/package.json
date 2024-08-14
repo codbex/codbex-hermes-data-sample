@@ -1,6 +1,6 @@
 {
     "name": "@codbex/codbex-hermes-data-sample",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "repository": {
         "url": "https://github.com/codbex/codbex-hermes-data-sample.git",
         "type": "git"

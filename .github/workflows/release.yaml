@@ -15,6 +15,7 @@ jobs:
     uses: codbex/codbex-infra/.github/workflows/module-release.yaml@main
     with:
       packages: codbex-hermes-data-sample
+      packages-build: codbex-hermes-data-sample
       release-version: ${{ inputs.release-version }}
       release-content: |
         ## codbex-hermes-data-sample - ${{ inputs.release-version }}

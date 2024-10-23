@@ -9,7 +9,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0"
     },
     {
       "table": "CODBEX_COMPANY",
@@ -19,7 +19,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_CUSTOMER",
@@ -29,7 +30,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_EMPLOYEE",
@@ -39,7 +41,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_MANUFACTURER",
@@ -49,7 +52,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_PRODUCT",
@@ -59,7 +63,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_PURCHASEORDERITEM",
@@ -69,7 +74,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_PURCHASEORDER",
@@ -79,7 +85,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_SALESORDERITEM",
@@ -89,7 +96,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_SALESORDER",
@@ -99,7 +107,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_SUPPLIER",
@@ -109,7 +118,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_DIMENSION",
@@ -119,7 +129,8 @@
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     },
     {
       "table": "CODBEX_UOM",
@@ -130,7 +141,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "1.1"
+      "version": "1.0"
     },
     {
       "table": "CODBEX_CATALOGUE",
@@ -141,7 +152,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0"
     },
     {
       "table": "CODBEX_OPPORTUNITIES",
@@ -152,7 +163,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "10.0"
+      "version": "1.0"
     },
     {
       "table": "CODBEX_LEADS",
@@ -163,7 +174,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "10.0"
+      "version": "1.0"
     },
     {
       "table": "CODBEX_QUOTATIONS",
@@ -174,7 +185,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "10.0"
+      "version": "1.0"
     },
     {
       "table": "CODBEX_ORGANISATIONS",
@@ -185,7 +196,7 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "10.0"
+      "version": "1.0"
     }
   ]
 }

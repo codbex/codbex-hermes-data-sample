@@ -155,7 +155,7 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_OPPORTUNITIES",
+      "table": "CODBEX_OPPORTUNITY",
       "schema": "PUBLIC",
       "file": "/codbex-hermes-data-sample/opportunities.csv",
       "header": true,
@@ -166,7 +166,7 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_LEADS",
+      "table": "CODBEX_LEAD",
       "schema": "PUBLIC",
       "file": "/codbex-hermes-data-sample/leads.csv",
       "header": true,
@@ -177,7 +177,7 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_QUOTATIONS",
+      "table": "CODBEX_QUOTATION",
       "schema": "PUBLIC",
       "file": "/codbex-hermes-data-sample/quotations.csv",
       "header": true,

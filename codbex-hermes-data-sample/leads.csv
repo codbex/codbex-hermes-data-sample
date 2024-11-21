@@ -1,12 +1,12 @@
-LEAD_ID,LEAD_NAME,LEAD_COMPANYNAME,LEAD_CONTACTNAME,LEAD_CONTACTDESIGNATION,LEAD_CONTACTEMAIL,LEAD_CONTACTPHONE,LEAD_INDUSTRY,LEAD_STATUS,LEAD_OWNER
-1,LE00000001,ganim,Dobri Mirna,,d.m@gmail.com,0870912904,,,
-2,LE00000002,Steev's,Steven Segal,,ssegal@gmail.com,4400517561087,,,4
-3,LE00000003,Derbi,John Mentz,,jmentz@gmail.com,4400304138243,,,6
-4,LE00000004,Christmas Pawms,George Mone,,gmone@gmail.com,336670964110,,,8
-5,LE00000005,Tom & George,Madane Hopes,,mhopes@gmail.com,333810643241,,,4
-6,LE00000006,Yen's dojo,Ye Wendjy,,ye.w@gmail.com,810555647660,,,5
-7,LE00000007,Dobermare,Dobie Dopes,,d.d@gmail.com,397558051938,,,7
-8,LE00000008,Riccardito,Riles Miles,,r.m@gmail.com,395525161045,,,1
-9,LE00000009,Jinnition,Robbert Marks,,r.m@jinn.com,12218986382,,,5
-10,LE00000010,Shwengton,Annike Zende,,annike.z@shw.com,49246338434262,,,1
-11,LE00000011,FlyHigh,Ferris Miristom,,ferris.m@flyhigh.com,4406378858736,,,6
+LEAD_ID,LEAD_NAME,LEAD_COMPANYNAME,LEAD_CONTACTNAME,LEAD_CONTACTDESIGNATION,LEAD_CONTACTEMAIL,LEAD_CONTACTPHONE,LEAD_INDUSTRY,LEAD_STATUS,LEAD_OWNER,LEAD_DATE
+1,LE00000009,ganim,Dobri Mirna,,d.m@gmail.com,0870912904,1,1,2,2024-10-24
+2,LE000000010,Steev's,Steven Segal,,ssegal@gmail.com,4400517561087,1,1,4,2024-10-24
+3,LE000000011,Derbi,John Mentz,,jmentz@gmail.com,4400304138243,1,3,6,2024-10-24
+4,LE00000001,Christmas Pawms,George Mone,,gmone@gmail.com,36670964110,3,2,3,2024-10-24
+5,LE00000002,Tom & George,Madane Hopes,,mhopes@gmail.com,333810643241,4,2,2,2024-10-23
+6,LE00000003,Yen's dojo,Ye Wendjy,,ye.w@gmail.com,810555647660,3,7,4,2024-10-24
+7,LE00000004,Dobermare,Dobie Dopes,,d.d@gmail.com,397558051938,5,8,7,2024-10-24
+8,LE00000005,Riccardito,Riles Miles,,r.m@gmail.com,395525161045,3,6,4,2024-10-24
+9,LE00000006,Jinnition,Robbert Marks,,r.m@jinn.com,12218986382,4,4,4,2024-10-24
+10,LE00000007,Shwengton,Annike Zende,,annike.z@shw.com,49246338434262,3,5,5,2024-10-24
+11,LE00000008,FlyHigh,Ferris Miristom,,ferris.m@flyhigh.com,4406378858736,2,4,10,2024-10-24

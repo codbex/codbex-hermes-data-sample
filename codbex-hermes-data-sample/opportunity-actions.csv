@@ -1,0 +1,11 @@
+OPPORTUNITYACTION_ID,OPPORTUNITYACTION_DATE,OPPORTUNITYACTION_SUBJECT,OPPORTUNITYACTION_OPPORTUNITY,OPPORTUNITYACTION_EMPLOYEE,OPPORTUNITYACTION_TYPE,OPPORTUNITYACTION_STATUS,OPPORTUNITYACTION_NOTE,OPPORTUNITYACTION_TIMESTAMP
+1,2024-12-05,Subject sampling,1,5,4,3,Nothing,2024-11-28 02:52:00.0
+2,2024-11-29,Microcontrollers,1,6,3,4,Customer unsatisfied with purchase,2024-11-27 02:24:00.0
+3,2024-11-29,Obligations,2,3,3,3,Product demanding rework,2024-11-28 01:42:00.0
+4,2024-12-02,Prototype Testing,3,4,5,2,Initial tests successful,2024-11-30 03:15:00.0
+5,2024-12-03,Client Meeting,4,7,1,4,Discussed project milestones,2024-12-02 09:45:00.0
+6,2024-12-01,Quality Assurance,5,6,2,3,QA reports sent to client,2024-12-01 12:00:00.0
+7,2024-12-06,Final Proposal,6,5,4,5,Proposal approved by management,2024-12-05 10:20:00.0
+8,2024-12-04,Delivery Coordination,7,8,3,4,Delivery scheduled for next week,2024-12-03 11:30:00.0
+9,2024-12-07,Market Analysis,8,2,5,2,Analysis sent for review,2024-12-06 14:10:00.0
+10,2024-12-05,Follow-Up Discussion,9,1,4,3,Discussing contract terms,2024-12-04 08:50:00.0

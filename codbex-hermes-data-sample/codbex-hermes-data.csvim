@@ -219,6 +219,61 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": "1.0"
+    },
+    {
+      "table": "CODBEX_LEADACTION",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/lead-actions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_LEADQUALIFICATION",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/lead-qualification.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_OPPORTUNITYACTION",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/opportunity-actions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_QUOTATIONITEM",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/quotation-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_QUOTATIONLINK",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/quotation-links.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     }
   ]
 }

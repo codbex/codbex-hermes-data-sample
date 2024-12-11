@@ -221,9 +221,9 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_LEADACTION",
+      "table": "CODBEX_LEADENGAGEMENT",
       "schema": "PUBLIC",
-      "file": "codbex-hermes-data-sample/lead-actions.csv",
+      "file": "codbex-hermes-data-sample/lead-engagements.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",

@@ -1,86 +1,9 @@
 {
   "files": [
     {
-      "table": "CODBEX_DIMENSION",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/dimensions.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_QUOTATIONLINK",
-      "schema": "PUBLIC",
-      "file": "codbex-hermes-data-sample/quotation-links.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
       "table": "CODBEX_CATALOGUE",
       "schema": "PUBLIC",
       "file": "/codbex-hermes-data-sample/catalogue.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_QUOTATIONITEM",
-      "schema": "PUBLIC",
-      "file": "codbex-hermes-data-sample/quotation-items.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_UOM",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/uoms.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_PURCHASEORDER",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/purchase-orders.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_QUOTATION",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/quotations.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_EMPLOYEE",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/employees.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -100,9 +23,53 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_MANUFACTURER",
+      "table": "CODBEX_COMPANY",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/manufacturers.csv",
+      "file": "/codbex-hermes-data-sample/companies.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_CUSTOMER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/customers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_DIMENSION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/dimensions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_EMPLOYEE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/employees.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_LEAD",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/leads.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -133,75 +100,20 @@
       "version": "1.0"
     },
     {
+      "table": "CODBEX_MANUFACTURER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/manufacturers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
       "table": "CODBEX_NUMBER",
       "schema": "PUBLIC",
       "file": "codbex-hermes-data-sample/numbers.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_ORGANIZATIONS",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/organizations.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_PURCHASEORDERITEM",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/purchase-order-items.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_OPPORTUNITYACTION",
-      "schema": "PUBLIC",
-      "file": "codbex-hermes-data-sample/opportunity-actions.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_SALESORDER",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/sales-orders.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_CUSTOMER",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/customers.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_COMPANY",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/companies.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -221,9 +133,9 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_LEAD",
+      "table": "CODBEX_OPPORTUNITYACTION",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/leads.csv",
+      "file": "codbex-hermes-data-sample/opportunity-actions.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -232,20 +144,9 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_SUPPLIER",
+      "table": "CODBEX_ORGANIZATIONS",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/suppliers.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": "1.0"
-    },
-    {
-      "table": "CODBEX_SALESORDERITEM",
-      "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/sales-order-items.csv",
+      "file": "/codbex-hermes-data-sample/organizations.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -265,9 +166,108 @@
       "version": "1.0"
     },
     {
+      "table": "CODBEX_PURCHASEORDER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/purchase-orders.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PURCHASEORDERITEM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/purchase-order-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_QUOTATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/quotations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_QUOTATIONITEM",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/quotation-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_QUOTATIONLINK",
+      "schema": "PUBLIC",
+      "file": "codbex-hermes-data-sample/quotation-links.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_SALESORDER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/sales-orders.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_SALESORDERITEM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/sales-order-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
       "table": "CODBEX_STORE",
       "schema": "PUBLIC",
       "file": "codbex-hermes-data-sample/stores.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_SUPPLIER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/suppliers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_UOM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hermes-data-sample/uoms.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",

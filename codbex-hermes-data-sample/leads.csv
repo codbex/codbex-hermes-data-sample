@@ -1,12 +1,13 @@
-LEAD_ID,LEAD_NUMBER,LEAD_COMPANY,LEAD_NAME,LEAD_DESIGNATION,LEAD_EMAIL,LEAD_PHONE,LEAD_STATUS,LEAD_OWNER,LEAD_DATE
-1,LE00000009,ganim,Dobri Mirna,,d.m@gmail.com,0870912904,1,1,2,2024-10-24
-2,LE000000010,Steev's,Steven Segal,,ssegal@gmail.com,4400517561087,1,1,4,2024-10-24
-3,LE000000011,Derbi,John Mentz,,jmentz@gmail.com,4400304138243,1,3,6,2024-10-24
-4,LE00000001,Christmas Pawms,George Mone,,gmone@gmail.com,36670964110,3,2,3,2024-10-24
-5,LE00000002,Tom & George,Madane Hopes,,mhopes@gmail.com,333810643241,4,2,2,2024-10-23
-6,LE00000003,Yen's dojo,Ye Wendjy,,ye.w@gmail.com,810555647660,3,7,4,2024-10-24
-7,LE00000004,Dobermare,Dobie Dopes,,d.d@gmail.com,397558051938,5,8,7,2024-10-24
-8,LE00000005,Riccardito,Riles Miles,,r.m@gmail.com,395525161045,3,6,4,2024-10-24
-9,LE00000006,Jinnition,Robbert Marks,,r.m@jinn.com,12218986382,4,4,4,2024-10-24
-10,LE00000007,Shwengton,Annike Zende,,annike.z@shw.com,49246338434262,3,5,5,2024-10-24
-11,LE00000008,FlyHigh,Ferris Miristom,,ferris.m@flyhigh.com,4406378858736,2,4,10,2024-10-24
+LEAD_ID,LEAD_NUMBER,LEAD_NAME,LEAD_COUNTRY,LEAD_CITY,LEAD_COMPANY,LEAD_DESIGNATION,LEAD_EMAIL,LEAD_PHONE,LEAD_STATUS,LEAD_OWNER,LEAD_DATE
+1,LE00000001,John Doe,34,1,SanFranto,Cooperations,JohnDoe@sfranto.com,0875658527,1,3,2025-03-19
+2,LE00000002,Dobri Mirna,34,5,ganim,Major Decisions,d.m@gmail.com,0870912904,2,5,2025-03-19
+3,LE00000003,Steven Segal,34,9,Steev's,CEO,ssegal@gmail.com,4400517561087,8,3,2025-03-19
+4,LE00000004,John Mentz,34,9,Derbi,Intern,jmentz@gmail.com,4400304138243,7,10,2025-03-19
+5,LE00000005,George Mone,34,3,Christmas Pawms,Main Delivery,gmone@gmail.com,36670964110,8,6,2025-03-19
+6,LE00000006,Madane Hopes,34,8,Tom & George,Custom Service Major,mhopes@gmail.com,333810643241,4,4,2025-03-19
+7,LE00000007,Ye Wendjy,34,4,Yen's dojo,CIO,ye.w@gmail.com,810555647660,7,8,2025-03-19
+8,LE00000008,Dobie Dopes,34,6,Dobermare,CTO,d.d@gmail.com,397558051938,3,10,2025-03-19
+9,LE00000009,Riles Miles,34,7,Riccardito,Customer Supplier,r.m@gmail.com,395525161045,5,9,2025-03-19
+10,LE00000010,Robbert Marks,34,8,Jinnition,ETO,r.m@jinn.com,12218986382,6,2,2025-03-19
+11,LE00000011,Annike Zende,34,9,Shwengton,,annike.z@shw.com,49246338434262,1,1,2025-03-19
+12,LE00000012,Ferris Miristom,,,FlyHigh,,ferris.m@flyhigh.com,4406378858736,2,7,2025-03-19

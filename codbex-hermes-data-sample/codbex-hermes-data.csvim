@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_CATALOGUE",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/catalogue.csv",
+      "file": "codbex-hermes-data-sample/catalogue.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -14,7 +14,7 @@
     {
       "table": "CODBEX_CITY",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/cities.csv",
+      "file": "codbex-hermes-data-sample/cities.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -25,7 +25,7 @@
     {
       "table": "CODBEX_COMPANY",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/companies.csv",
+      "file": "codbex-hermes-data-sample/companies.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -36,7 +36,7 @@
     {
       "table": "CODBEX_CUSTOMER",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/customers.csv",
+      "file": "codbex-hermes-data-sample/customers.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -47,7 +47,7 @@
     {
       "table": "CODBEX_DIMENSION",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/dimensions.csv",
+      "file": "codbex-hermes-data-sample/dimensions.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -58,7 +58,7 @@
     {
       "table": "CODBEX_EMPLOYEE",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/employees.csv",
+      "file": "codbex-hermes-data-sample/employees.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -69,7 +69,7 @@
     {
       "table": "CODBEX_LEAD",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/leads.csv",
+      "file": "codbex-hermes-data-sample/leads.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -102,7 +102,7 @@
     {
       "table": "CODBEX_MANUFACTURER",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/manufacturers.csv",
+      "file": "codbex-hermes-data-sample/manufacturers.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -124,7 +124,7 @@
     {
       "table": "CODBEX_OPPORTUNITY",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/opportunities.csv",
+      "file": "codbex-hermes-data-sample/opportunities.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -146,7 +146,7 @@
     {
       "table": "CODBEX_ORGANIZATIONS",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/organizations.csv",
+      "file": "codbex-hermes-data-sample/organizations.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -157,7 +157,7 @@
     {
       "table": "CODBEX_PRODUCT",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/products.csv",
+      "file": "codbex-hermes-data-sample/products.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -168,7 +168,7 @@
     {
       "table": "CODBEX_PURCHASEORDER",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/purchase-orders.csv",
+      "file": "codbex-hermes-data-sample/purchase-orders.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -179,7 +179,7 @@
     {
       "table": "CODBEX_PURCHASEORDERITEM",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/purchase-order-items.csv",
+      "file": "codbex-hermes-data-sample/purchase-order-items.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -190,7 +190,7 @@
     {
       "table": "CODBEX_QUOTATION",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/quotations.csv",
+      "file": "codbex-hermes-data-sample/quotations.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -223,7 +223,7 @@
     {
       "table": "CODBEX_SALESORDER",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/sales-orders.csv",
+      "file": "codbex-hermes-data-sample/sales-orders.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -234,7 +234,7 @@
     {
       "table": "CODBEX_SALESORDERITEM",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/sales-order-items.csv",
+      "file": "codbex-hermes-data-sample/sales-order-items.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -256,7 +256,7 @@
     {
       "table": "CODBEX_SUPPLIER",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/suppliers.csv",
+      "file": "codbex-hermes-data-sample/suppliers.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -267,7 +267,7 @@
     {
       "table": "CODBEX_UOM",
       "schema": "PUBLIC",
-      "file": "/codbex-hermes-data-sample/uoms.csv",
+      "file": "codbex-hermes-data-sample/uoms.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",

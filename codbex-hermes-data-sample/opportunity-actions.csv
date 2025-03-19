@@ -1,11 +1,11 @@
-OPPORTUNITYACTION_ID,OPPORTUNITYACTION_DATE,OPPORTUNITYACTION_SUBJECT,OPPORTUNITYACTION_OPPORTUNITY,OPPORTUNITYACTION_EMPLOYEE,OPPORTUNITYACTION_TYPE,OPPORTUNITYACTION_STATUS,OPPORTUNITYACTION_DESCRIPTION
-1,2024-12-05,Subject sampling,1,5,4,3,Nothing
-2,2024-11-29,Microcontrollers,1,6,3,4,Customer unsatisfied with purchase
-3,2024-11-29,Obligations,2,3,3,3,Product demanding rework
-4,2024-12-02,Prototype Testing,3,4,5,2,Initial tests successful
-5,2024-12-03,Client Meeting,4,7,1,4,Discussed project milestones
-6,2024-12-01,Quality Assurance,5,6,2,3,QA reports sent to client
-7,2024-12-06,Final Proposal,6,5,4,5,Proposal approved by management
-8,2024-12-04,Delivery Coordination,7,8,3,4,Delivery scheduled for next week
-9,2024-12-07,Market Analysis,8,2,5,2,Analysis sent for review
-10,2024-12-05,Follow-Up Discussion,9,1,4,3,Discussing contract terms
+OPPORTUNITYACTION_ID,OPPORTUNITYACTION_DATE,OPPORTUNITYACTION_DUE,OPPORTUNITYACTION_SUBJECT,OPPORTUNITYACTION_OPPORTUNITY,OPPORTUNITYACTION_DESCRIPTION,OPPORTUNITYACTION_INITIATOR,OPPORTUNITYACTION_TYPE,OPPORTUNITYACTION_STATUS
+1,2024-12-05,2024-04-19,Subject sampling,1,Nothing,4,4,3
+2,2024-11-29,2025-12-19,Microcontrollers,1,Customer unsatisfied with purchase,2,3,4
+3,2024-11-29,2025-03-23,Obligations,2,Product demanding rework,9,3,3
+4,2024-12-02,2025-01-01,Prototype Testing,3,Initial tests successful,8,5,2
+5,2024-12-03,2023-03-19,Client Meeting,4,Discussed project milestones,4,1,4
+6,2024-12-01,2025-03-21,Quality Assurance,5,QA reports sent to client,8,2,3
+7,2024-12-06,2024-11-19,Final Proposal,6,Proposal approved by management,2,4,5
+8,2024-12-04,2025-10-20,Delivery Coordination,7,Delivery scheduled for next week,6,3,4
+9,2024-12-07,2024-04-10,Market Analysis,8,Analysis sent for review,1,5,2
+10,2024-12-05,2022-03-19,Follow-Up Discussion,9,Discussing contract terms,4,4,3
